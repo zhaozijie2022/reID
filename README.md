@@ -1,12 +1,12 @@
 # reid_course_project_term7
 使用Yolov4+PCB_RPP算法完成行人重识别课程设计
 
-# 下载数据集及权重
+## 下载数据集及权重
 1. Market-1501-v15.09.15.zip：https://drive.google.com/file/d/0B8-rUzbwVRk0c054eEozWG9COHM/view?resourcekey=0-8nyl7K9_x37HlQm34MmrYQ   to   ./Dataset
 2. yolov4.weights：https://drive.google.com/open?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT  to  ./Yolov4-detector/data/
 3. UESTC-ReID：https://pan.baidu.com/s/1VZPfZOT2Ig6-rZD04Fx5zw （提取码：reid）  to  ./Dataset/UESTC-ReID
 
-# 文件介绍
+## 文件介绍
 1. Dataset/UESTC-ReID：
 
     check_label.py用于提出gt中的坏bbox，并将结果储存在label_check文件夹中 \
@@ -30,5 +30,7 @@
     evaluate_test.py 根据features, 计算CMC & mAP
     train.py, prepare.py & model.py from https://github.com/Xiaoccer/ReID-PCB_RPP
  
-# 效果展示
-![Image text](https://github.com/zjzhaogithub/imgs/blob/main/det1.jpg)
+## 效果展示
+
+![det1](https://github.com/zjzhaogithub/imgs/blob/main/det1.jpg) \
+Yolov4-detector检测效果
