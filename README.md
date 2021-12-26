@@ -6,7 +6,8 @@
 3. UESTC-ReID：https://pan.baidu.com/s/1VZPfZOT2Ig6-rZD04Fx5zw 提取码：reid  to  ./Dataset/UESTC-ReID
 
 二、文件介绍
-1.Yolov4-detector
+1. Yolov4-detector
+
 
 在UESTC-ReID中：
 
