@@ -33,4 +33,6 @@
 ## 效果展示
 
 ![det1](https://github.com/zjzhaogithub/imgs/blob/main/det1.jpg) \
-Yolov4-detector检测效果
+detector效果
+![hit1](https://github.com/zjzhaogithub/imgs/blob/main/hit.png) \
+classifier效果
