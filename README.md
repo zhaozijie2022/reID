@@ -24,7 +24,7 @@
 
 3. PCB_RPP-classifier
     
-    mylib4test.py  test及fine tune所需的函数库，具体见注释 \
+    mylib4test.py  test所需的函数库，具体见注释 \
     get_features.py 对gallery和query提取特征, 并使用npy格式存储 \
     res_disp.py  随机抽取num_img张query，展示效果 \
     evaluate_test.py 根据features, 计算CMC & mAP
