@@ -32,8 +32,8 @@
  
 ## 效果展示
 
-![det1](https://github.com/zjzhaogithub/imgs/blob/main/det1.jpg) \
+![det1](https://github.com/zhaozijie2022/images/blob/master/reID-course-term7/det1.jpg) \
 detector效果
 
-![hit1](https://github.com/zjzhaogithub/imgs/blob/main/hit.png) \
+![hit1](https://github.com/zhaozijie2022/images/blob/master/reID-course-term7/hit.png) \
 classifier效果
